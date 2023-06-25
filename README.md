@@ -1,31 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbe0b&height=120&section=header"/>
+<h1 align="center">Hi 👋, I'm Shiba</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&size=35&duration=2000&pause=1000&color=FFBE0B&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shiba;I'm+From+Brazil;I'm+Front+End+Developer)](https://git.io/typing-svg)
+- 🌱 I’m currently learning **ReactJS and NodeJS**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devshiba&bg_color=0d1117&color=ffbe0b&line=ffffff&point=ffd60a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 👨‍💻 All of my projects are available at [vercel.com](vercel.com)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<div align="center">  
-  <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devshiba&show_icons=true&count_private=true&hide_border=true&title_color=ffbe0b&icon_color=ffb703&text_color=ffffff&bg_color=0d1117" alt="Dev Shiba github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshiba&layout=compact&hide_border=true&title_color=ffbe0b&text_color=ff91a4&bg_color=0d1117" />
-</div>
- 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiba&show_icons=true&locale=en&layout=compact" alt="shiba" /></p>
 
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiba&show_icons=true&locale=en" alt="shiba" /></p>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devshiba}/count.svg" /></p> 
-<br>
-</div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffbe0b&height=120&section=footer"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiba&" alt="shiba" /></p>
